@@ -45,6 +45,12 @@
 
 * Optimize log volume and cost
 
+### Versioning & Updates
+
+* Managing policies using Infrastructure As Code (Terraform)
+* Git versioning
+* Code to be tested in non-prod before releasing in production
+* Backward compatible rollout
 
 
 
