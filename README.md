@@ -52,6 +52,26 @@
 * Code to be tested in non-prod before releasing in production
 * Backward compatible rollout
 
+### Benefits & Trade-Offs
+
+#### Benefits
+
+* Consistent observability across all Azure resources
+
+* Centralized logging and alerting
+
+* Strong compliance and governance
+
+* Zero-touch onboarding for new applications
+
+* Scales easily beyond 50 applications
+
+#### Trade-Offs
+
+* Central Log Analytics cost 
+
+* Initial setup effort
+
 
 
 
